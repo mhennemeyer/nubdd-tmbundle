@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>NuBDD</string>
+	<key>ordering</key>
+	<array>
+		<string>754ED556-DA15-4728-BC15-97C40A05CEB0</string>
+		<string>82FF0D2C-FF9A-4EDF-8F25-718D42FC5874</string>
+		<string>3591961D-E378-4E9A-9652-5302C80E664F</string>
+		<string>78FDB63F-79DF-4405-8D42-536CBA8E8896</string>
+		<string>B01C9B69-3C2D-4125-8DC5-F04D95C764F7</string>
+		<string>490B825D-CA72-4CBF-9D75-8354BB95E586</string>
+	</array>
+	<key>uuid</key>
+	<string>99AEED2B-8C81-417E-8351-E852CC3D32AE</string>
+</dict>
+</plist>
